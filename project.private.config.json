@@ -1,0 +1,23 @@
+{
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "video-music",
+          "pathName": "pages/video/video-music",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
